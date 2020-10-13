@@ -1,1 +1,1 @@
-# lab-ex-3
+This is the Third exercise for my Adt Lab
